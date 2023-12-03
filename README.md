@@ -52,7 +52,6 @@ The 'Delete Selected' button enables the simultaneous deletion of multiple selec
 ### 🌟 Intuitive Search Box: 🌟
 
 ⏲️ Users can trigger the search manually using the dedicated search icon/button, classed as search-icon. Alternatively, a quick ENTER keypress initiates an instant search.
-### Checkbox Shortcut:
 
 
 1. Clone the repository:
