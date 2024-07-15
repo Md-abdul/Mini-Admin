@@ -31,6 +31,8 @@ import {
 import { ChatWindow } from "./ChatWindow";
 
 export const Sidebar = () => {
+
+  
   const { isOpen, onOpen, onClose } = useDisclosure();
   const [data, setData] = useState([]);
   const [selectedChatId, setSelectedChatId] = useState(null);
