@@ -1,10 +1,12 @@
 import "./App.css";
-import { Admin } from "./components/Admin";
+import { Sidebar } from "./Components/Sidebar";
 
 function App() {
-  return <div className="App">
-    <Admin/>
-  </div>;
+  return (
+    <div className="App">
+      <Sidebar />
+    </div>
+  );
 }
 
 export default App;
